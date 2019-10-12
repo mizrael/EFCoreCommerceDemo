@@ -9,7 +9,7 @@ namespace EFCoreCommerceDemo
         static async Task Main(string[] args)
         {
             var connStr =
-                "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=EFCoreCommerceDemo;Trusted_Connection=True;MultipleActiveResultSets=true";
+                "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=EFCoreCommerceDemo.Example1;Trusted_Connection=True;MultipleActiveResultSets=true";
             
             await using var repo = new CommerceRepository(connStr);
 
