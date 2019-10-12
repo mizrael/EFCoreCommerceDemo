@@ -1,8 +1,8 @@
-﻿using EFCoreCommerceDemo.Models;
+﻿using EFCoreCommerceDemo.Example1.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace EFCoreCommerceDemo.Infrastructure
+namespace EFCoreCommerceDemo.Example1.Infrastructure
 {
     internal class OrderEntityTypeConfiguration : IEntityTypeConfiguration<Order>
     {

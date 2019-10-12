@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 
-namespace EFCoreCommerceDemo.Infrastructure
+namespace EFCoreCommerceDemo.Example1.Infrastructure
 {
     public static class DbContextUtils
     {

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Threading.Tasks;
-using EFCoreCommerceDemo.Infrastructure;
-using EFCoreCommerceDemo.Models;
+using EFCoreCommerceDemo.Example1.Infrastructure;
+using EFCoreCommerceDemo.Example1.Models;
 
-namespace EFCoreCommerceDemo
+namespace EFCoreCommerceDemo.Example1
 {
     public class CommerceRepository : IAsyncDisposable
     {

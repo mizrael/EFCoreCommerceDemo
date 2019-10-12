@@ -1,7 +1,7 @@
-﻿using EFCoreCommerceDemo.Models;
+﻿using EFCoreCommerceDemo.Example1.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace EFCoreCommerceDemo.Infrastructure
+namespace EFCoreCommerceDemo.Example1.Infrastructure
 {
     public class CommerceDbContext : DbContext
     {

@@ -1,4 +1,4 @@
-﻿namespace EFCoreCommerceDemo.Models
+﻿namespace EFCoreCommerceDemo.Example1.Models
 {
     public class QuoteItem
     {

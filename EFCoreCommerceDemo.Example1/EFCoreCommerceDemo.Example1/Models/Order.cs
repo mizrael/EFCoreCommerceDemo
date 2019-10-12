@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace EFCoreCommerceDemo.Models
+namespace EFCoreCommerceDemo.Example1.Models
 {
     public class Order
     {

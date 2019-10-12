@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Threading.Tasks;
-using EFCoreCommerceDemo.Models;
+using EFCoreCommerceDemo.Example1.Models;
 
-namespace EFCoreCommerceDemo
+namespace EFCoreCommerceDemo.Example1
 {
     class Program
     {
