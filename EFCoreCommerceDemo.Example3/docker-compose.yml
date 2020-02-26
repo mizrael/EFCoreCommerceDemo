@@ -1,0 +1,10 @@
+version: "3"
+services:
+  EFCoreCommerceDemo.Example3:
+    image: "mcr.microsoft.com/mssql/server"
+    container_name: EFCoreCommerceDemo.Example3
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "Tut0r!al"
+      ACCEPT_EULA: "Y"
